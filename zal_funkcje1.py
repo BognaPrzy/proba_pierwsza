@@ -110,3 +110,5 @@ print("Ile kolumn powinna mieć lista?")
 kolumna3 = int(input())
 rezultat3 = tworzenie(wiersz3,kolumna3)
 print(rezultat3)'''
+
+print("koniec")
