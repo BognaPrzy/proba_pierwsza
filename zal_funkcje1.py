@@ -1,18 +1,3 @@
-#zadanie 4
-'''def dlugosc(ciag):
-    wynik = 0
-    for i in ciag:
-        if not i == " ":
-            wynik += 1
-    return wynik
-
-lista = ["Ala ma kota","Tomek nie ma kota","Tomek ma za to świnkę"]
-for i in range(3):
-    rezultat = dlugosc(lista[i])
-    print(rezultat)'''
-
-
-
 #zadanie 5
 def zamiana(lancuch):
     wynik = lancuch[-1] + lancuch[1:len(lancuch)-1] + lancuch[0]
